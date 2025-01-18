@@ -1,4 +1,4 @@
-# Undergraduate student
+# Undergraduate Student at HKU
 
 #### Major in Mathematics and Economics
 
@@ -14,7 +14,7 @@ Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
 - Investigate fundamental machine learning theories and basic models such as XGBoost and LSTM
 - Explore the principles and modelling techniques of online portfolio selection
 - Replace traditional predictive models with machine learning models to improve predictive accuracy and enhance overall portfolio performance
-[Final Draft](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EbIdwj3-D_dBrSg3s8rRo5gB29HWe-UvsCve9QwpeATO0Q?e=ikfmXB)
+- [View the Final Draft](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EbIdwj3-D_dBrSg3s8rRo5gB29HWe-UvsCve9QwpeATO0Q?e=ikfmXB)
 
 **MATH3999 Directed Studies in Mathematics in the semester 1 ofacademic year 2024-2025**
 Various Travelling Salesman Problem
@@ -24,7 +24,7 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Conduct detailed studies on classic approximation algorithms, mainly focusing on Christofides' algorithm. This task involves reconstructing the proof to understand the foundational mathematics and the algorithm’s approach to achieving approximation guarantees
 - Apply problem transformation techniques to investigate how the Travelling Salesman Problem (TSP) can assist in designing efficient algorithms for the set cover problem and the shortest superstring problem.
 - Reconstruct the code for algorithms; run numerical analysis on the performance of approximation algorithms including Christofides and quick insertion, comparing them against the brute force method for TSP. Analyze the length of routes they return and the time consumed.
-[Project Report](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EYuEQG-rStpIlSFqRU857t8BqAdDFWiGMk-SxY03s2vtIQ?e=jfpFiA)
+- [View the Project Report](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EYuEQG-rStpIlSFqRU857t8BqAdDFWiGMk-SxY03s2vtIQ?e=jfpFiA)
 ## Work Experience
 **Education Content Developer @ Essence Brilliant Limited, Hong Kong**
 #### August 2023
@@ -67,11 +67,11 @@ Serve as volunteer for MFMW(Mission for migrant workers). Regular event organiza
 
 **Student as Partner Project**
 Participate in the project supervised by Dr. Chan Yat Ming, which revolves around making videos via Manim to illustrate mathematical concepts. I serve as the team leader as well as the main producer.
-Access the details through this link: 
-https://er.talic.hku.hk/sap/hkuproject-maths/
+You can access the details through this link: 
+- https://er.talic.hku.hk/sap/hkuproject-maths/
 My examples of work(broadcast through U-vision across HKU campus): 
-[Maths in a minute -- A Telescoping Series](https://uvision.hku.hk/playvideo.php?mid=28114#)
-[Maths in a minute -- Venn Diagrams](https://video.wixstatic.com/video/31c506_f5035ec7b6ad4a40914ade5300471014/1080p/mp4/file.mp4)
+- [Maths in a minute -- A Telescoping Series](https://uvision.hku.hk/playvideo.php?mid=28114#)
+- [Maths in a minute -- Venn Diagrams](https://video.wixstatic.com/video/31c506_f5035ec7b6ad4a40914ade5300471014/1080p/mp4/file.mp4)
 
 
 
