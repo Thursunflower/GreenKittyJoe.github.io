@@ -61,12 +61,14 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 
 ## Extracurricular
 **Volunteer Work @Mission for Migrant Workers (MFMW), Hong Kong**
-Serve as volunteer for MFMW(Mission for migrant workers). Regular event organization and support, enhancing community engagement and outreach, demonstrating communication skills and initiative.
+Serve as volunteer for MFMW. Regular event organization and support, enhancing community engagement and outreach, demonstrating communication skills and initiative.
 
 **Student as Partner Project**
 Participate in the project supervised by Dr. Chan Yat Ming, which revolves around making videos via Manim to illustrate mathematical concepts. I serve as the team leader as well as the main producer.
+
 You can access the details through this link: 
 - https://er.talic.hku.hk/sap/hkuproject-maths/
+
 My examples of work(broadcast through U-vision across HKU campus): 
 - [Maths in a minute -- A Telescoping Series](https://uvision.hku.hk/playvideo.php?mid=28114#)
 - [Maths in a minute -- Venn Diagrams](https://video.wixstatic.com/video/31c506_f5035ec7b6ad4a40914ade5300471014/1080p/mp4/file.mp4)
