@@ -1,11 +1,28 @@
-# Data Scientist
+# Undergraduate student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Major in Mathematics and Economics
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education 			        		
+- Bachelor of Science | The University of Hong Kong
+
+
+## Research Experience Experience
+**2024 HKU summer research fellowship**
+Integrating machine learning to enhance online portfolio selection
+(Current revising for submission to conference)
+Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
+-Investigate fundamental machine learning theories and basic models such as XGBoost and LSTM
+-Explore the principles and modelling techniques of online portfolio selection
+-Replace traditional predictive models with machine learning models to improve predictive accuracy and enhance overall portfolio performance
+
+**MATH3999 Directed Studies in Mathematics in the semester 1 ofacademic year 2024-2025**
+Various Travelling Salesman Problem
+Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
+-Investigate fundamental concepts in graph theory such as spanning trees, matchings, and bonds. Develop a deep understanding of how these structures are utilized in the formulation and solution of various optimization problems.
+-Explore key theoretical frameworks in computational complexity, with an emphasis on the definitions and implications of NP and NP-hard classifications. This includes understanding the boundary and the significance of these classes in computational theory.
+-Conduct detailed studies on classic approximation algorithms, mainly focusing on Christofides' algorithm. This task involves reconstructing the proof to understand the foundational mathematics and the algorithm’s approach to achieving approximation guarantees
+-Apply problem transformation techniques to investigate how the Travelling Salesman Problem (TSP) can assist in designing efficient algorithms for the set cover problem and the shortest superstring problem.
+-Reconstruct the code for algorithms; run numerical analysis on the performance of approximation algorithms including Christofides and quick insertion, comparing them against the brute force method for TSP. Analyze the length of routes they return and the time consumed.
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
