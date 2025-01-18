@@ -36,13 +36,13 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Managed task distribution among team members, ensuring efficient workflow and adherence to project timelines, Facilitating effective communication between project stakeholders, enhancing collaboration and project success.
   
 
-**Student Teaching Assistant @University of Hong Kong, Department of Mathematics**
+**Student Teaching Assistant @ University of Hong Kong, Department of Mathematics**
 #### October 2023 – December 2023, February 2024 – May 2024
 - Assisted in teaching foundational mathematics and multivariable calculus, helping students grasp complex theoretical concepts.
 - Conducted revision classes before exams to clarify concepts and aid students in exam preparation, enhancing their academic performance.
 - Developed and utilized self-made video tutorials using Manim, an animation engine, to visually demonstrate and simplify mathematical concepts, significantly boosting student comprehension and engagement.
 
-****Student Teaching Assistant @University of Hong Kong, Department of Mathematics**
+**Student Teaching Assistant @ University of Hong Kong, Department of Mathematics**
 #### October 2023 – December 2023, February 2024 – May 2024
 - Assisted in teaching foundational mathematics and multivariable calculus, helping students grasp complex theoretical concepts.
 - Conducted revision classes before exams to clarify concepts and aid students in exam preparation, enhancing their academic performance.
