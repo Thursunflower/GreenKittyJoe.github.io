@@ -49,7 +49,7 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Developed and utilized self-made video tutorials using Manim, an animation engine, to visually demonstrate and simplify mathematical concepts, significantly boosting student comprehension and engagement.
 
 
-**Credit Analyst Intern@Bank of China**
+**Credit Analyst Intern @ Bank of China**
 #### August 2024
 - Analyzed industry credit reports to assist in evaluating the creditworthiness of clients.
 - Supported the credit analysis team by preparing detailed Excel spreadsheets that captured financial metrics and trends, aiding in the decision-making process.
