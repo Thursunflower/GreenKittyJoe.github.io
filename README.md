@@ -14,6 +14,7 @@ Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
 - Investigate fundamental machine learning theories and basic models such as XGBoost and LSTM
 - Explore the principles and modelling techniques of online portfolio selection
 - Replace traditional predictive models with machine learning models to improve predictive accuracy and enhance overall portfolio performance
+[Final Draft](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EbIdwj3-D_dBrSg3s8rRo5gB29HWe-UvsCve9QwpeATO0Q?e=ikfmXB)
 
 **MATH3999 Directed Studies in Mathematics in the semester 1 ofacademic year 2024-2025**
 Various Travelling Salesman Problem
@@ -23,15 +24,34 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Conduct detailed studies on classic approximation algorithms, mainly focusing on Christofides' algorithm. This task involves reconstructing the proof to understand the foundational mathematics and the algorithm’s approach to achieving approximation guarantees
 - Apply problem transformation techniques to investigate how the Travelling Salesman Problem (TSP) can assist in designing efficient algorithms for the set cover problem and the shortest superstring problem.
 - Reconstruct the code for algorithms; run numerical analysis on the performance of approximation algorithms including Christofides and quick insertion, comparing them against the brute force method for TSP. Analyze the length of routes they return and the time consumed.
-
+[Project Report](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EYuEQG-rStpIlSFqRU857t8BqAdDFWiGMk-SxY03s2vtIQ?e=jfpFiA)
 ## Work Experience
 **Education Content Developer @ Essence Brilliant Limited, Hong Kong**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+#### August 2023
+- Developed Python skills for data analysis and visualization, enhancing the ability to interpret and present complex data effectively.
+- Created educational content using Manim, a Python-based animation engine, to produce dynamic visualizations that simplify complex concepts and engage learners.
+- Managed task distribution among team members, ensuring efficient workflow and adherence to project timelines, Facilitating effective communication between project stakeholders, enhancing collaboration and project success.
+  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Student Teaching Assistant @University of Hong Kong, Department of Mathematics**
+#### October 2023 – December 2023, February 2024 – May 2024
+- Assisted in teaching foundational mathematics and multivariable calculus, helping students grasp complex theoretical concepts.
+- Conducted revision classes before exams to clarify concepts and aid students in exam preparation, enhancing their academic performance.
+- Developed and utilized self-made video tutorials using Manim, an animation engine, to visually demonstrate and simplify mathematical concepts, significantly boosting student comprehension and engagement.
+
+****Student Teaching Assistant @University of Hong Kong, Department of Mathematics**
+#### October 2023 – December 2023, February 2024 – May 2024
+- Assisted in teaching foundational mathematics and multivariable calculus, helping students grasp complex theoretical concepts.
+- Conducted revision classes before exams to clarify concepts and aid students in exam preparation, enhancing their academic performance.
+- Developed and utilized self-made video tutorials using Manim, an animation engine, to visually demonstrate and simplify mathematical concepts, significantly boosting student comprehension and engagement.
+
+
+**Credit Analyst Intern@Bank of China**
+#### August 2024
+- Analyzed industry credit reports to assist in evaluating the creditworthiness of clients.
+- Supported the credit analysis team by preparing detailed Excel spreadsheets that captured financial metrics and trends, aiding in the decision-making process.
+-	Contributed to the development of client credit evaluations, ensuring accurate assessments through comprehensive data analysis.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
