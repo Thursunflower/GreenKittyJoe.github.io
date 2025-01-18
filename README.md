@@ -2,7 +2,8 @@
 
 #### Major in Mathematics and Economics
 
-## Education 			        		
+## Education
+
 - Bachelor of Science | The University of Hong Kong
 
 
@@ -25,6 +26,8 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Apply problem transformation techniques to investigate how the Travelling Salesman Problem (TSP) can assist in designing efficient algorithms for the set cover problem and the shortest superstring problem.
 - Reconstruct the code for algorithms; run numerical analysis on the performance of approximation algorithms including Christofides and quick insertion, comparing them against the brute force method for TSP. Analyze the length of routes they return and the time consumed.
 - [View the Project Report](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EYuEQG-rStpIlSFqRU857t8BqAdDFWiGMk-SxY03s2vtIQ?e=jfpFiA)
+
+
 ## Work Experience
 **Education Content Developer @ Essence Brilliant Limited, Hong Kong**
 #### August 2023
