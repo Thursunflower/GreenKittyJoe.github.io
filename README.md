@@ -25,7 +25,7 @@ Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 -Reconstruct the code for algorithms; run numerical analysis on the performance of approximation algorithms including Christofides and quick insertion, comparing them against the brute force method for TSP. Analyze the length of routes they return and the time consumed.
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Education Content Developer @ Essence Brilliant Limited, Hong Kong**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
