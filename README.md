@@ -5,10 +5,14 @@
 ## Education
 
 - Bachelor of Science | The University of Hong Kong
+- CGPA: 3.88/4.3
+- Dean's Honours List 2022-2023
+- Dean's Honours List 2023-2024
 
 
-## Research Experience Experience
+## Research Experience 
 **2024 HKU summer research fellowship**
+
 Integrating machine learning to enhance online portfolio selection
 (Current revising for submission to conference)
 Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
@@ -17,7 +21,8 @@ Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
 - Replace traditional predictive models with machine learning models to improve predictive accuracy and enhance overall portfolio performance
 - [View the Final Draft](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EbIdwj3-D_dBrSg3s8rRo5gB29HWe-UvsCve9QwpeATO0Q?e=ikfmXB)
 
-**MATH3999 Directed Studies in Mathematics in the semester 1 ofacademic year 2024-2025**
+**MATH3999 Directed Studies in Mathematics**
+#### Semester 1 ofacademic year 2024-2025
 Various Travelling Salesman Problem
 Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Investigate fundamental concepts in graph theory such as spanning trees, matchings, and bonds. Develop a deep understanding of how these structures are utilized in the formulation and solution of various optimization problems.
