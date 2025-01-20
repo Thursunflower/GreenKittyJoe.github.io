@@ -4,7 +4,7 @@
 
 ## Education
 
-- Bachelor of Science | The University of Hong Kong
+**Bachelor of Science | The University of Hong Kong**
 - CGPA: 3.88/4.3
 - Dean's Honours List 2022-2023
 - Dean's Honours List 2023-2024
@@ -15,6 +15,7 @@
 
 Integrating machine learning to enhance online portfolio selection
 (Current revising for submission to conference)
+
 Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
 - Investigate fundamental machine learning theories and basic models such as XGBoost and LSTM
 - Explore the principles and modelling techniques of online portfolio selection
@@ -24,6 +25,7 @@ Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
 **MATH3999 Directed Studies in Mathematics**
 #### Semester 1 ofacademic year 2024-2025
 Various Travelling Salesman Problem
+
 Supervisor: Zang Wenan (Chair Professor of HKU Maths Department)
 - Investigate fundamental concepts in graph theory such as spanning trees, matchings, and bonds. Develop a deep understanding of how these structures are utilized in the formulation and solution of various optimization problems.
 - Explore key theoretical frameworks in computational complexity, with an emphasis on the definitions and implications of NP and NP-hard classifications. This includes understanding the boundary and the significance of these classes in computational theory.
