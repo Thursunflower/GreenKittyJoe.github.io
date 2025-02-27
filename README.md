@@ -8,19 +8,20 @@
 - CGPA: 3.88/4.3
 - Dean's Honours List 2022-2023
 - Dean's Honours List 2023-2024
+- C.V. Starr Scholarships: Merit-based Scholarships for Current Students, Enrichment Scholarships for Current Students
 
 
 ## Research Experience 
 **2024 HKU summer research fellowship**
 
 Integrating machine learning to enhance online portfolio selection
-(Current revising for submission to conference)
+Accepted by 8th International Conference on Applied Research in Business, Management, and Economics, (BMECONF)
 
 Supervisor: Ching Wai-Ki (Head of HKU maths department from 2016-2019)
 - Investigate fundamental machine learning theories and basic models such as XGBoost and LSTM
 - Explore the principles and modelling techniques of online portfolio selection
 - Replace traditional predictive models with machine learning models to improve predictive accuracy and enhance overall portfolio performance
-- [View the Final Draft](https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3597461_connect_hku_hk/EbIdwj3-D_dBrSg3s8rRo5gB29HWe-UvsCve9QwpeATO0Q?e=ikfmXB)
+
 
 **MATH3999 Directed Studies in Mathematics**
 #### Semester 1 ofacademic year 2024-2025
@@ -74,11 +75,12 @@ Serve as volunteer for MFMW. Regular event organization and support, enhancing c
 Participate in the project supervised by Dr. Chan Yat Ming, which revolves around making videos via Manim to illustrate mathematical concepts. I serve as the team leader as well as the main producer.
 
 You can access the details through this link: 
-- https://er.talic.hku.hk/sap/hkuproject-maths/
+- (https://er.talic.hku.hk/sap/hkuproject-maths/)
 
 My examples of work(broadcast through U-vision across HKU campus): 
 - [Maths in a minute -- A Telescoping Series](https://uvision.hku.hk/playvideo.php?mid=28114#)
 - [Maths in a minute -- Venn Diagrams](https://video.wixstatic.com/video/31c506_f5035ec7b6ad4a40914ade5300471014/1080p/mp4/file.mp4)
+- [Maths in a minute -- 2025 - A very mathematical year](https://youtu.be/SdNTTGzlQ6M?si=SANDW2Sqs5otzRtC)
 
 
 
